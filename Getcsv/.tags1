@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Race_to_csv	/Users/home/Horse/Getcsv/MakeCSV.py	/^import Race_to_csv$/;"	namespace	line:1
+Dairy_race	/Users/home/Horse/Getcsv/MakeCSV.py	/^import Dairy_race$/;"	namespace	line:2
+getDateURL	/Users/home/Horse/Getcsv/MakeCSV.py	/^import getDateURL$/;"	namespace	line:3
+requests	/Users/home/Horse/Getcsv/MakeCSV.py	/^import requests$/;"	namespace	line:4
+BeautifulSoup	/Users/home/Horse/Getcsv/MakeCSV.py	/^from bs4 import BeautifulSoup$/;"	namespace	line:5
+csv	/Users/home/Horse/Getcsv/MakeCSV.py	/^import csv$/;"	namespace	line:6
+main	/Users/home/Horse/Getcsv/MakeCSV.py	/^def main():$/;"	function	line:8

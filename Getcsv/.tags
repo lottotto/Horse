@@ -1,0 +1,19 @@
+requests	/Users/home/Horse/Getcsv/Dairy_race.py	/^import requests$/;"	namespace	line:1
+BeautifulSoup	/Users/home/Horse/Getcsv/Dairy_race.py	/^from bs4 import BeautifulSoup$/;"	namespace	line:2
+getDairyRaceURL	/Users/home/Horse/Getcsv/Dairy_race.py	/^def getDairyRaceURL(THEDAYURL):$/;"	function	line:4
+__main__	/Users/home/Horse/Getcsv/Dairy_race.py	/^def __main__():$/;"	function	line:18	file:
+itertools	/Users/home/Horse/Getcsv/getDateURL.py	/^import itertools$/;"	namespace	line:1
+getUrlList	/Users/home/Horse/Getcsv/getDateURL.py	/^def getUrlList(year):$/;"	function	line:3
+requests	/Users/home/Horse/Getcsv/Race_to_csv.py	/^import requests$/;"	namespace	line:1
+BeautifulSoup	/Users/home/Horse/Getcsv/Race_to_csv.py	/^from bs4 import BeautifulSoup$/;"	namespace	line:2
+getRaceCondition	/Users/home/Horse/Getcsv/Race_to_csv.py	/^def getRaceCondition(soup):$/;"	function	line:4
+scrapeRow	/Users/home/Horse/Getcsv/Race_to_csv.py	/^def scrapeRow(row,result):$/;"	function	line:15
+getRaceResult	/Users/home/Horse/Getcsv/Race_to_csv.py	/^def getRaceResult(RACEPAGEURL):$/;"	function	line:23
+main	/Users/home/Horse/Getcsv/Race_to_csv.py	/^def main():$/;"	function	line:35
+Race_to_csv	/Users/home/Horse/Getcsv/MakeCSV.py	/^import Race_to_csv$/;"	namespace	line:1
+Dairy_race	/Users/home/Horse/Getcsv/MakeCSV.py	/^import Dairy_race$/;"	namespace	line:2
+getDateURL	/Users/home/Horse/Getcsv/MakeCSV.py	/^import getDateURL$/;"	namespace	line:3
+requests	/Users/home/Horse/Getcsv/MakeCSV.py	/^import requests$/;"	namespace	line:4
+BeautifulSoup	/Users/home/Horse/Getcsv/MakeCSV.py	/^from bs4 import BeautifulSoup$/;"	namespace	line:5
+csv	/Users/home/Horse/Getcsv/MakeCSV.py	/^import csv$/;"	namespace	line:6
+main	/Users/home/Horse/Getcsv/MakeCSV.py	/^def main():$/;"	function	line:8
